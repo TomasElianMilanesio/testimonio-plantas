@@ -2,7 +2,8 @@
   "name": "clon-freecodecamp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/TomasElianMilanesio/testimonio-plantas.git",
+  "homepage": "https://tomaselianmilanesio.github.io/testimonio-plantas/",
+  
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
