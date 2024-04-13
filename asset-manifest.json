@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/TomasElianMilanesio/testimonio-plantas.git/static/css/main.a1a857a0.css",
-    "main.js": "/TomasElianMilanesio/testimonio-plantas.git/static/js/main.861e0a4e.js",
-    "static/media/flor-amarilla.jpg": "/TomasElianMilanesio/testimonio-plantas.git/static/media/flor-amarilla.0206ae1801263d458cb3.jpg",
-    "static/media/flor-rosa.jpg": "/TomasElianMilanesio/testimonio-plantas.git/static/media/flor-rosa.9e4e705322c24ba8c022.jpg",
-    "static/media/flor-violeta.jpg": "/TomasElianMilanesio/testimonio-plantas.git/static/media/flor-violeta.09ff0145ee424417dd5b.jpg",
-    "index.html": "/TomasElianMilanesio/testimonio-plantas.git/index.html",
-    "main.a1a857a0.css.map": "/TomasElianMilanesio/testimonio-plantas.git/static/css/main.a1a857a0.css.map",
-    "main.861e0a4e.js.map": "/TomasElianMilanesio/testimonio-plantas.git/static/js/main.861e0a4e.js.map"
+    "main.css": "/testimonio-plantas/static/css/main.a1a857a0.css",
+    "main.js": "/testimonio-plantas/static/js/main.9c6122ca.js",
+    "static/media/flor-amarilla.jpg": "/testimonio-plantas/static/media/flor-amarilla.0206ae1801263d458cb3.jpg",
+    "static/media/flor-rosa.jpg": "/testimonio-plantas/static/media/flor-rosa.9e4e705322c24ba8c022.jpg",
+    "static/media/flor-violeta.jpg": "/testimonio-plantas/static/media/flor-violeta.09ff0145ee424417dd5b.jpg",
+    "index.html": "/testimonio-plantas/index.html",
+    "main.a1a857a0.css.map": "/testimonio-plantas/static/css/main.a1a857a0.css.map",
+    "main.9c6122ca.js.map": "/testimonio-plantas/static/js/main.9c6122ca.js.map"
   },
   "entrypoints": [
     "static/css/main.a1a857a0.css",
-    "static/js/main.861e0a4e.js"
+    "static/js/main.9c6122ca.js"
   ]
 }
